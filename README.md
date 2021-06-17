@@ -1,3 +1,3 @@
 # My-Coding-Practice Update
 
-CSS go so much better!
+HTML & CSS are so much so fun!
