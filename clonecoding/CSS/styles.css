@@ -45,11 +45,11 @@ body {
 }
 
 .login-form input:focus {
-  border-color: #8134AF
+  border-color: blue
 }
 
 .login-form input[type="submit"] {
-  background-color: #8134AF
+  background-color: blue
   cursor: pointer;
   padding: 20px 0px;
   border-radius: 5px;
